@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GB_Homework_4</string>
+    <string name="enter_the_text">Введите текст</string>
+    <string name="username">Имя</string>
+    <string name="telephoneNumberEditText">Телефон</string>
+    <string name="GenderM">М</string>
+    <string name="GenderF">Ж</string>
+    <string name="RecieveNotification">Получать уведомления</string>
+    <string name="RecieveNotifications">Получать уведомления</string>
+    <string name="authorizationNotification">об авторизации на устройстве</string>
+    <string name="newsNotifications">О новинках и предложениях</string>
+    <string name="text_gender">Пол</string>
+    <string name="points">Баллы</string>
+    <string name="save_button">Сохранить</string>
+    <string name="points_50">50 баллов</string>
+</resources>
